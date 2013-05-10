@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>bluefrog1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{100, 17}, {203, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{32, 56}</string>
+			<key>spriteSize</key>
+			<string>{203, 180}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1364, 1282}, {203, 180}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bluefrog2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 18}, {229, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 48}</string>
+			<key>spriteSize</key>
+			<string>{229, 194}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1364, 1086}, {229, 194}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bluefrog3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{70, 19}, {265, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{33, 31}</string>
+			<key>spriteSize</key>
+			<string>{265, 226}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1364, 858}, {265, 226}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bluefrog4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 21}, {301, 264}}</string>
+			<key>spriteOffset</key>
+			<string>{19, 10}</string>
+			<key>spriteSize</key>
+			<string>{301, 264}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1364, 592}, {301, 264}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bluefrog5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 22}, {325, 288}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -3}</string>
+			<key>spriteSize</key>
+			<string>{325, 288}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1364, 302}, {325, 288}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bluefrog6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 23}, {339, 300}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -10}</string>
+			<key>spriteSize</key>
+			<string>{339, 300}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1364, 0}, {339, 300}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>greenfrog1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{100, 17}, {203, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{341, 984}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>greenfrog2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 18}, {229, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{682, 984}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>greenfrog3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{70, 19}, {265, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{341, 1640}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>greenfrog4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 21}, {301, 264}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>greenfrog5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 22}, {325, 288}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{682, 0}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>greenfrog6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 23}, {339, 300}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1023, 0}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>orangefrog1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{100, 17}, {203, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{682, 1640}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>orangefrog2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 18}, {229, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{682, 656}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>orangefrog3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{70, 19}, {265, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{341, 1312}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>orangefrog4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 21}, {301, 264}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1023, 656}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>orangefrog5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 22}, {325, 288}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1023, 984}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>orangefrog6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 23}, {339, 300}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{682, 328}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>redfrog1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{100, 17}, {203, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{682, 1312}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>redfrog2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 18}, {229, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 328}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>redfrog3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{70, 19}, {265, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1023, 1312}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>redfrog4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 21}, {301, 264}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{341, 328}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>redfrog5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 22}, {325, 288}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 1640}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>redfrog6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 23}, {339, 300}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 656}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellowfrog1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{100, 17}, {203, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{341, 0}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellowfrog2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{90, 18}, {229, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1023, 1640}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellowfrog3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{70, 19}, {265, 226}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 984}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellowfrog4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 21}, {301, 264}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{1023, 328}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellowfrog5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 22}, {325, 288}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{0, 1312}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellowfrog6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 23}, {339, 300}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{339, 326}</string>
+			<key>spriteSourceSize</key>
+			<string>{339, 326}</string>
+			<key>spriteTrimmed</key>
+			<false/>
+			<key>textureRect</key>
+			<string>{{341, 656}, {339, 326}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>frogAnim-ipadhd</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>frogAnim-ipadhd</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
